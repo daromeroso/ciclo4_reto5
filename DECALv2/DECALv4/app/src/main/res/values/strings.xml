@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">DECALv2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Decal Jacket Shop</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">En desarrollo</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_productos">Productos</string>
+    <string name="menu_servicios">Servicios</string>
+    <string name="menu_sucursales">Sucursales</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="producto1">Producto1</string>
+    <string name="producto2">Producto2</string>
+    <string name="producto3">Producto3</string>
+    <string name="producto4">Producto4</string>
+    <string name="producto5">Producto5</string>
+    <string name="producto6">Producto6</string>
+    <string name="descripcion1">Descripción producto 1</string>
+    <string name="descripcion2">Descripción producto 2</string>
+    <string name="descripcion3">Descripción producto 3</string>
+    <string name="descripcion4">Descripción producto 4</string>
+    <string name="descripcion5">Descripción producto 5</string>
+    <string name="descripcion6">Descripción producto 6</string>
+    <string name="disponible">Producto disponible</string>
+    <string name="nodisponible">Producto agotado</string>
+    <string name="main1_titulo">BIENVENIDOS A DECAL JACKET SHOP</string>
+    <string name="main2_titulo">PRODUCTOS</string>
+    <string name="main3_titulo">SERVICIOS</string>
+    <string name="main4_titulo">SUCURSALES</string>
+    <string name="sucursal1">SEDE BOGOTÁ</string>
+    <string name="sucursal2">SEDE MEDELLÍN</string>
+    <string name="sucursal3">SEDE CALI</string>
+    <string name="detallesuc1">Av. 19 # 118 - 45</string>
+    <string name="detallesuc2">Calle 5 # 21 - 32</string>
+    <string name="detallesuc3">Carrera 54A # 1 - 70</string>
+    <string name="servicio1">DISEÑOS PERSONALIZADOS</string>
+    <string name="servicio2">FRANQUICIAS</string>
+    <string name="servicio3">ENTREGA A DOMICILIO</string>
+    <string name="detalleser1">Diseños personalizados de acuerdo al gusto del cliente</string>
+    <string name="detalleser2">Uneté a nuestro proyecto empresarial</string>
+    <string name="detalleser3">Entregas a nivel nacional e internacional</string>
+    <string name="channel_name">notificacion</string>
+    <string name="channel_description">descripcion</string>
+
+</resources>
